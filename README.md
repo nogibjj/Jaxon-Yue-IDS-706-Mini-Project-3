@@ -1,10 +1,12 @@
-# IDS 706 Mini Project 2 [![CI](https://github.com/nogibjj/Jaxon-Yue-IDS-706-Mini-Project-2/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jaxon-Yue-IDS-706-Mini-Project-2/actions/workflows/cicd.yml)
+# IDS 706 Mini Project 3 [![CI](https://github.com/nogibjj/Jaxon-Yue-IDS-706-Mini-Project-2/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jaxon-Yue-IDS-706-Mini-Project-2/actions/workflows/cicd.yml)
 ### Overview
-* This repository includes the components for Mini-Project 2 - Pandas Descriptive Statistics Script.
+* This repository includes the components for Mini-Project 3 - Polars Descriptive Statistics Script
+Requirements.
 
 ### Goal
-* It uses my Python template and contains a series of EDA on a dataset related to the development of average annual wages across various countries in the world.
-* The EDA process includes getting essential statistics such as **mean** and **median**, as well as a quick data visualization on the **growth of the average annual wages**.
+* It transforms my previous project with Pandas into generating descriptive statistics using Polars.
+* It contains a series of EDA on a dataset related to the development of average annual wages across various countries in the world.
+* The EDA process includes getting essential statistics such as **mean**, **median**, and **standard deviation**, as well as a quick data visualization on the **growth of the average annual wages**.
 * The summary statistics and data visualization can be found in the **Summary Report** notebook file
 * This repo also contains respective **tests** to check whether the statistics calculated in the EDA process **match with the real data points**.
 
@@ -21,4 +23,6 @@
 
 ### Results
 Using Github Actions, I have passed make format, make lint, and make test as shown below.
-<img width="900" alt="Screenshot 2023-09-09 at 11 45 49 AM" src="https://github.com/nogibjj/Jaxon-Yue-IDS-706-Mini-Project-2/assets/70416390/9b64a511-794e-40da-a33d-245ea11cb3ec">
+
+### References
+Link to Mini project 2, where this project was adapted from
