@@ -14,6 +14,7 @@ uvicorn
 jupyter
 panda
 numpy
+polars
 scikit-learn
 matplotlib
 seaborn
