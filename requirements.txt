@@ -1,0 +1,20 @@
+#devops
+black
+click
+pytest
+pytest-cov
+pylint
+#rust based linter
+ruff
+boto3
+#web
+fastapi
+uvicorn
+#datascience
+jupyter
+panda
+numpy
+scikit-learn
+matplotlib
+seaborn
+dask
