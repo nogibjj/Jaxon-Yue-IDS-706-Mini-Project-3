@@ -1,4 +1,4 @@
-# IDS 706 Mini Project 3 [![CI](https://github.com/nogibjj/Jaxon-Yue-IDS-706-Mini-Project-2/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jaxon-Yue-IDS-706-Mini-Project-2/actions/workflows/cicd.yml)
+# IDS 706 Mini Project 3 [![CI](https://github.com/nogibjj/Jaxon-Yue-IDS-706-Mini-Project-3/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/Jaxon-Yue-IDS-706-Mini-Project-3/actions/workflows/cicd.yml)
 ### Overview
 * This repository includes the components for Mini-Project 3 - Polars Descriptive Statistics Script
 Requirements.
